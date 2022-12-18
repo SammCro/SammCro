@@ -6,14 +6,14 @@
 
 ###
 
-<p align="left">My name is İlkay Samet Öztürk, a Web Developer. I remember when I first touched one of the keys on the keyboard, I was 4 years old. That was the day I found my interest, something that excited me, and when I thought about it, my heart beat My heart was growing. At the age of 13, I wrote my first program, a simple game that could introduce me to the big world of programming. Now, a few years have passed since that story and I was able to become a freelancer and offer my services without face-to-face contact. reach a few tens of people, I help the open source community on my GitHub page and try to make the world a better place with my small code :)</p>
+<p align="left">My name is İlkay Samet Öztürk, a Web Developer.</p>
 
 ###
 <h2 align="left">Development in the Open Source World 🌐</h2>
 
 ###
 
-<p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning React<br>🎯 Freelancing<br><br>🖤</p>
+<p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning React<br>🎯 Freelancing<br><br></p>
 
 ###
 <h2 align="left">My Skills</h2>
@@ -36,11 +36,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/armin-amiri-nasab-329421222/" target="_blank">
+  <a href="[https://www.linkedin.com/in/armin-amiri-nasab-329421222/](https://www.linkedin.com/in/ilkay-samet-%C3%B6zt%C3%BCrk-9971841a1/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://codepen.io/arminamirinasab/" target="_blank">
+  <a href="ttps://codepen.io/samcrow" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/iso_oztrk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
