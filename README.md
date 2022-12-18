@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/ilkay-samet-%C3%B6zt%C3%BCrk-9971841a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="ttps://codepen.io/samcrow" target="_blank">
+  <a href="https://codepen.io/samcrow" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
   <a href="https://www.hackerrank.com/iso_oztrk" target="_blank">
