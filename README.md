@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👨‍💻 I'm Armin Amiri Nasab</h1>
+<h1 align="left">Hey 👨‍💻 I'm İlkay Samet Öztürk</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Armin Amiri Nasab, a Web Developer. I remember when I first touched one of the keys on the keyboard, I was 4 years old. That was the day I found my interest, something that excited me, and when I thought about it, my heart beat My heart was growing. At the age of 13, I wrote my first program, a simple game that could introduce me to the big world of programming. Now, a few years have passed since that story and I was able to become a freelancer and offer my services without face-to-face contact. reach a few tens of people, I help the open source community on my GitHub page and try to make the world a better place with my small code :)</p>
+<p align="left">My name is İlkay Samet Öztürk, a Web Developer. I remember when I first touched one of the keys on the keyboard, I was 4 years old. That was the day I found my interest, something that excited me, and when I thought about it, my heart beat My heart was growing. At the age of 13, I wrote my first program, a simple game that could introduce me to the big world of programming. Now, a few years have passed since that story and I was able to become a freelancer and offer my services without face-to-face contact. reach a few tens of people, I help the open source community on my GitHub page and try to make the world a better place with my small code :)</p>
 
 ###
 <h2 align="left">Development in the Open Source World 🌐</h2>
