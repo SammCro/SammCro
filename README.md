@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning Java Spring<br>🎯 Freelancing<br><br></p>
+<p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning Java Spring<br>🎯 Currently working @Beevision<br><br></p>
 
 ###
 <h2 align="left">My Skills</h2>
