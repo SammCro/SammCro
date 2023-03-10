@@ -1,26 +1,25 @@
 <div align="center">
-<h1 align="left">Hey 👨‍💻 I'm İlkay Samet Öztürk</h1>
-###
+<h1 align="center">Hey 👨‍💻 I'm İlkay Samet Öztürk</h1>
 
 [![](https://visitcount.itsvg.in/api?id=arminamirinasab&icon=7&color=1)](https://visitcount.itsvg.in)
 
 ###
 
-<p align="left">My name is İlkay Samet Öztürk, a Web Developer.</p>
+<p align="center">My name is İlkay, a Web Developer.</p>
 
 ###
-<h2 align="left">Development in the Open Source World 🌐</h2>
-
-###
-
-<p align="left">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning Java Spring<br>🎯 Currently working @Beevision<br><br></p>
-
-###
-<h2 align="left">My Skills</h2>
+<h2 align="center">Development in the Open Source World 🌐</h2>
 
 ###
 
-<div align="left">
+<p align="center">✨ Finding and developing good open source repositories.<br>📚 I'm currently learning Java Spring<br>🎯 Currently working @Beevision<br><br></p>
+
+###
+<h2 align="center">My Skills</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -31,11 +30,11 @@
 </div>
 
 ###
-<h2 align="left">Socials</h2>
+<h2 align="center">Socials</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ilkay-samet-%C3%B6zt%C3%BCrk-9971841a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -48,7 +47,7 @@
 </div>
 
 ###
-<h2 align="left">My Activity</h2>
+<h2 align="center">My Activity</h2>
 
 ###
 
