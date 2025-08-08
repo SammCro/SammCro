@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlkay Samet</h1>
-<h3 align="center">A passionate AI Engineer who dedicated to develop technologies for better world.</h3>
+<h3 align="center">A passionate Software Engineer who dedicated to develop technologies for better world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammcro&label=Profile%20views&color=0e75b6&style=flat" alt="sammcro" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Guardrails**
   
-- 💬 Ask me about **LLM APIs, Vector DBs, Langchain, Embedding Models**
+- 💬 Ask me about **Java, Spring Boot, Kafka, Redis, CI/CD, Kubernetes**
 
 - 📫 How to reach me **ilk.samett06@gmail.com**
 
@@ -21,26 +21,38 @@
 
 These are the key technologies I explore or use in building AI-powered applications:
 
-### 🧠 LLM APIs
-- **OpenAI** – Leading provider of general-purpose language models like GPT.
-- **Anthropic** – Creator of Claude, focused on safe and steerable AI systems.
-- **Cohere** – Specializes in NLP APIs and custom model training for enterprises.
+🐧 Operating Systems
+Linux / Debian / Ubuntu – My go-to environments for development, server management, and container-based deployments. I rely heavily on CLI tools and shell scripting for automation.
 
-### 📦 Vector Databases
-- **AWS** – Cloud-native vector storage with scalable infrastructure.
-- **Chroma** – Open-source embedding database optimized for LLMs.
+🧬 Version Control & DevOps
+Git / BitBucket / GitFlow – Used for managing version control, collaborative workflows, and branching strategies in team-based development.
 
-### 🛠 Frameworks
-- **LangChain** – Popular framework for chaining LLM calls and agents together.
-- **LlamaIndex** – Helps structure, index, and query external data for LLMs.
+Docker – Essential for containerizing applications, ensuring consistency across development, staging, and production environments.
 
-### 🔊 Text-to-Speech
-- **Resemble AI** – Realistic and customizable AI voices for production use.
-- **ElevenLabs** – High-quality, expressive TTS engine with multi-language support.
+🔄 Messaging & Caching
+Apache Kafka – Utilized for building real-time, event-driven architectures and high-throughput data pipelines.
 
-### 📈 Monitoring
-- **Distyl** – Observability and insights for LLM app behavior and usage.
-- **Guardrails AI** – Enforces reliability, safety, and correctness in LLM outputs.
+RabbitMQ – Employed as a reliable message broker between microservices, ensuring asynchronous communication.
+
+Redis – Used for in-memory caching and lightweight pub/sub messaging to boost application performance.
+
+💾 Databases
+MySQL / PostgreSQL – Preferred for relational data models and applications that require transactional integrity and strong consistency.
+
+MongoDB – Used for flexible schema design and fast iterations in NoSQL-based applications.
+
+💻 Web Development
+JavaScript / React.js / Node.js – I build responsive front-end interfaces with React and scalable server-side APIs with Node.js for full-stack applications.
+
+☕️ Java Backend Development
+Core Java / Spring Boot / Hibernate / Spring Security / Maven – These are my core tools for building robust, secure, and maintainable backend services. I use Maven for project build and dependency management.
+
+🔄 CI/CD & Infrastructure
+CI/CD – I integrate pipelines using Jenkins, GitHub Actions, or Bitbucket Pipelines to automate testing, building, and deployment workflows.
+
+Terraform – I use Infrastructure as Code (IaC) to provision, scale, and manage cloud infrastructure reliably and reproducibly.
+
+Kubernetes – My preferred platform for orchestrating microservices, managing container lifecycles, and scaling applications in production.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammcro&show_icons=true&locale=en&layout=compact" alt="sammcro" /></p>
 
